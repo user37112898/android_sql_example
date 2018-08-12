@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MySql</string>
+
+    //Database
+    <string name="student.db">DATABASE_NAME</string>
+    <string name="student_table">TABLE_NAME</string>
+    <string name="col1">Id</string>
+    <string name="col2">Name</string>
+    <string name="col3">Surname</string>
+    <string name="col4">Marks</string>
+
+    //Buttons
+    <string name="addData">Add Data</string>
+    <string name="viewData">View</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
